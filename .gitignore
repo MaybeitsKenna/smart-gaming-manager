@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.zip
+*.exe
+.vscode/
+*.log
+relatorio_smart_gaming_manager_*.txt
